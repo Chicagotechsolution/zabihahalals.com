@@ -3,4 +3,5 @@
   <url><loc>https://zabihahalals.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://zabihahalals.com/privacy.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
   <url><loc>https://zabihahalals.com/terms.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://zabihahalals.com/directory.html</loc><changefreq>weekly</changefreq></url>
 </urlset>
